@@ -19,7 +19,7 @@ We use Whimsical for flowcharts, quick mockups, site navigation maps, and user j
 
 - [SourceCred Workspace on Whimsical](https://whimsical.com/3Z254PDEfcSvThHK2LfKMx)
   - [UX Wireframes](https://whimsical.com/A6EEdJgLwX3K4VTroURP3b)
-  - []()
+  - [Site Map](https://whimsical.com/Bz9zK7s2k1HP38RaQmErSp)
 - **OUTDATED:** [LB's website site map proposal](https://whimsical.com/2GXs4xGUdGeo6GABqMYsSd) (July 2020)
 - **OUTDATED:** [rpp's website site map proposal](https://whimsical.com/JfwiT84VPvX4aw9jg1Kx84) (June 2020)
 
